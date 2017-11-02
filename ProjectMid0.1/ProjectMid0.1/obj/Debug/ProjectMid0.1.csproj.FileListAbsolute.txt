@@ -1,0 +1,26 @@
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.csprojResolveAssemblyReference.cache
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0._1.Form1.resources
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0._1.Properties.Resources.resources
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.csproj.GenerateResource.Cache
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.exe.config
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.exe
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.pdb
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.dll
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.xml
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.exe
+C:\Users\majdy\Documents\Visual Studio 2013\Projects\HomeWorks\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.pdb
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.exe.config
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.exe
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.pdb
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.exe
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\ProjectMid0.1.pdb
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.dll
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.xml
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.csprojResolveAssemblyReference.cache
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0._1.Form1.resources
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0._1.Properties.Resources.resources
+C:\Users\majdy\Documents\ProjectMid0.1\ProjectMid0.1\obj\Debug\ProjectMid0.1.csproj.GenerateResource.Cache
